@@ -1,3 +1,3 @@
 # supremeBot
 
-Hello
+Easy and Simple automated bot for Supreme!
