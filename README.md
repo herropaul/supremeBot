@@ -8,7 +8,7 @@ Easy and Simple Supreme bot that parses the DOM of the site and automates clicki
 
 ## Installation
 ---
-* Clone the directory in any given path you want.
+* Clone the link in any given path you want.
 ```
 git clone https://github.com/herropaul/supremeBot
 ```
@@ -16,7 +16,7 @@ git clone https://github.com/herropaul/supremeBot
 ```
 pip install -r requirements.txt
 ```
-* For my **Chrome** users, be sure to download a [Chrome Driver](https://chromedriver.chromium.org/downloads) to open up the chrome browser with the bot. Here's how it should look like to access the chrome driver
+* For **Chrome** users, be sure to download a [Chrome Driver](https://chromedriver.chromium.org/downloads) to open up the chrome browser with the bot. Here's how it should look like to access the chrome driver
 ```
 from splinter import Browser
 executable_path = {'executable_path': r'/path/to/chromedriver'}
