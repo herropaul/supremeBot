@@ -40,7 +40,7 @@ Before starting, make sure to edit the INFO dictionary such as: **product**, **c
 
 ## Demo
 ---
-![demoGif](https://im4.ezgif.com/tmp/ezgif-4-3326c3bf39da.gif)
+![demoGif](https://im4.ezgif.com/tmp/ezgif-4-48cf05f4fdc9.gif)
 
 ## TODO
 ---
